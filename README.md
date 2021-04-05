@@ -36,3 +36,10 @@ Search for:
 - "NTPClient Generic"
 - "AceButton"
 - "arduino timer"
+
+### Wemos D1 mini pinout
+![Alt text](images/esp8266-wemos-d1-mini-nodemcu-pinout.png.webp "Wemos D1 mini pinout")
+
+### Basic View
+![Alt text](images/IMG_8491.jpeg "Inside a small box")
+![Alt text](images/IMG_8492.jpeg "Inside a small box")
